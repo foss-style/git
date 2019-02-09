@@ -1,6 +1,7 @@
 
 # Get Started with Git
 ## What is Git?
+#Summary - Intro to git demo 2/9/19
 
 
 ## How can technical writers use git
