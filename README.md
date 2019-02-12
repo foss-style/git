@@ -2,7 +2,8 @@
 # Get Started with Git
 
 ## What is Git?
-#Summary - Intro to git demo 2/9/19
+
+# Summary - Intro to git demo 2/9/19
 
 =======
 
@@ -17,6 +18,7 @@ In 2014 Larry Ulman wrote: Git is a valuable tool for technical writers.
 https://www.larryullman.com/2014/12/01/git-for-technical-writers/
  
  Example 1. wiley
+ 
  Example 2. collab
 
 
