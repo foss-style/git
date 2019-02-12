@@ -1,6 +1,9 @@
 
 # Get Started with Git
 ## What is Git?
+#Summary - Intro to git demo 2/9/19
+
+=======
 Now is the time for all good Gits to come to the aide of their Bash
 
 ## How can technical writers use git
