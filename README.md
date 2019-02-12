@@ -3,10 +3,12 @@
 ## What is Git?
 #Summary - Intro to git demo 2/9/19
 
+=======
+Now is the time for all good Gits to come to the aide of their Bash
 
 ## How can technical writers use git
 companies are using git for writing, editing and documentation collaboration
-In 2014 Larry Ulman wrote:    Git is a valuable tool for technical writers.
+In 2014 Larry Ulman wrote: Git is a valuable tool for technical writers.
 
     Git is a valuable tool for technical writers.
     
@@ -19,9 +21,9 @@ https://www.larryullman.com/2014/12/01/git-for-technical-writers/
 ## Create a GitHub account
 Please be aware similar Gitlab instructions - if that is a preference.
 
-1. Go to Github.com
+1. Go to Github.com.
 
-2. Create an account
+2. Create an account.
 
 3. Go to the workshop repo
     https://github.com/foss-style/
